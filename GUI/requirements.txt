@@ -1,0 +1,21 @@
+# GuacaGUI Python Dependencies
+# Core PyQt5 packages for the GUI application
+
+# Main PyQt5 framework
+PyQt5>=5.15.0
+
+# PyQt5 WebEngine for web browser functionality
+PyQt5-WebEngine>=5.15.0
+
+# PyQt5 tools for development and debugging
+PyQt5-tools>=5.15.0
+
+# Additional utilities
+xdotool>=3.0  # For system automation (Linux only)
+
+# Development dependencies (optional)
+# Uncomment these if you're developing the application
+# pytest>=6.0.0
+# black>=21.0.0
+# flake8>=3.8.0
+# mypy>=0.800 

@@ -1,3 +1,11 @@
 {
-  "home_url": "http://localhost:8080/guacamole/"
+  "home_url": "http://localhost:8080/guacamole/",
+  "macros": [
+    {"name": "1", "text": "sebastian.garcia"},
+    {"name": "2", "text": "argosmultilingual.com"},
+    {"name": "3", "text": "argostranslations.com"},
+    {"name": "4", "text": "sudo apt update"},
+    {"name": "5", "text": "docker compose up -d"},
+    {"name": "6", "text": "docker compose down"}
+  ]
 }
