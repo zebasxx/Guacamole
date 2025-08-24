@@ -1,0 +1,9 @@
+[Desktop Entry]
+Type=Application
+Name=Guacagui
+Comment=Lightweight tabbed browser for a fixed home URL
+Exec=guacagui
+Icon=guacagui
+Terminal=false
+Categories=Network;WebBrowser;
+StartupNotify=true
