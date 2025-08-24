@@ -105,6 +105,7 @@ The application uses a configuration file to define Guacamole URL and the Macros
 ### Key Configuration Options
 
 ```json
+}
   "home_url": "http://localhost:8080/guacamole/",
   "macros": [
     {"name": "1", "text": "sebastian.garcia"},
