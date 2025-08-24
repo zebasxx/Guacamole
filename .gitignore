@@ -1,2 +1,4 @@
 dbdata
 sql_import_data
+OpenVPN_Integration/.env
+OpenVPN_Integration/ovpn/*.ovpn
